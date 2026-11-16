@@ -1,0 +1,13 @@
+# Power BI temp files
+*.pbix.tmp
+*.pbix.lock
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Kiro
+.kiro/

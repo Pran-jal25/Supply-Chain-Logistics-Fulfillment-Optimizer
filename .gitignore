@@ -11,3 +11,9 @@ desktop.ini
 
 # Kiro
 .kiro/
+
+# Internal working docs — not for GitHub
+Dashboard_Layout.md
+Interview_QA.md
+Power_Query_Steps.md
+Resume_Bullets.md
